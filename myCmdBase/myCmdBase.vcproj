@@ -175,6 +175,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\june_cmd.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\myCmdBase.cpp"
 				>
 			</File>
@@ -190,6 +194,10 @@
 			>
 			<File
 				RelativePath=".\cmdTest.h"
+				>
+			</File>
+			<File
+				RelativePath=".\june_cmd.h"
 				>
 			</File>
 			<File
